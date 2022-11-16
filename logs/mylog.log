@@ -1,0 +1,97 @@
+[INFO ] 2022-11-07 07:04:39.947 [main] Framework645 - url opened
+[INFO ] 2022-11-07 07:04:46.692 [main] Framework645 - Clicked on Sign In button successfully.
+[INFO ] 2022-11-07 07:04:47.046 [main] Framework645 - Login Email entered successfully.
+[INFO ] 2022-11-07 07:04:47.317 [main] Framework645 - Login Password entered successfully.
+[INFO ] 2022-11-07 07:04:49.978 [main] Framework645 - Clicked on Login Button successfully.
+[INFO ] 2022-11-07 07:08:47.019 [main] Framework645 - url opened
+[INFO ] 2022-11-07 07:08:54.142 [main] Framework645 - Clicked on Sign In button successfully.
+[INFO ] 2022-11-07 07:08:54.562 [main] Framework645 - Login Email entered successfully.
+[INFO ] 2022-11-07 07:08:54.841 [main] Framework645 - Login Password entered successfully.
+[INFO ] 2022-11-07 07:08:57.503 [main] Framework645 - Clicked on Login Button successfully.
+[INFO ] 2022-11-07 07:11:11.488 [main] Framework645 - url opened
+[INFO ] 2022-11-07 07:11:20.505 [main] Framework645 - Clicked on Sign In button successfully.
+[INFO ] 2022-11-07 07:11:20.880 [main] Framework645 - Login Email entered successfully.
+[INFO ] 2022-11-07 07:11:21.144 [main] Framework645 - Login Password entered successfully.
+[INFO ] 2022-11-07 07:11:24.907 [main] Framework645 - Clicked on Login Button successfully.
+[INFO ] 2022-11-07 07:20:50.623 [main] Framework645 - url opened
+[INFO ] 2022-11-07 07:20:57.976 [main] Framework645 - Clicked on Sign In button successfully.
+[INFO ] 2022-11-07 07:20:58.371 [main] Framework645 - Login Email entered successfully.
+[INFO ] 2022-11-07 07:20:58.611 [main] Framework645 - Login Password entered successfully.
+[INFO ] 2022-11-07 07:21:05.354 [main] Framework645 - Clicked on Login Button successfully.
+[INFO ] 2022-11-07 07:24:19.312 [main] Framework645 - url opened
+[INFO ] 2022-11-07 07:24:25.057 [main] Framework645 - Clicked on Sign In button successfully.
+[INFO ] 2022-11-07 07:29:49.491 [main] Framework645 - url opened
+[INFO ] 2022-11-07 07:29:58.542 [main] Framework645 - Clicked on Sign In button successfully.
+[INFO ] 2022-11-07 07:32:52.426 [main] Framework645 - url opened
+[INFO ] 2022-11-07 07:32:58.254 [main] Framework645 - Clicked on Sign In button successfully.
+[INFO ] 2022-11-07 07:35:43.096 [main] Framework645 - url opened
+[INFO ] 2022-11-07 07:35:49.966 [main] Framework645 - Clicked on Sign In button successfully.
+[INFO ] 2022-11-07 07:41:10.417 [main] Framework645 - url opened
+[INFO ] 2022-11-07 07:41:16.350 [main] Framework645 - Clicked on Sign In button successfully.
+[INFO ] 2022-11-07 07:43:42.343 [main] Framework645 - url opened
+[INFO ] 2022-11-07 07:43:50.657 [main] Framework645 - Clicked on Sign In button successfully.
+[INFO ] 2022-11-07 11:19:08.073 [main] Framework645 - url opened
+[INFO ] 2022-11-07 11:19:14.532 [main] Framework645 - Clicked on Sign In button successfully.
+[INFO ] 2022-11-07 11:21:21.878 [main] Framework645 - url opened
+[INFO ] 2022-11-07 11:21:29.771 [main] Framework645 - Clicked on Sign In button successfully.
+[INFO ] 2022-11-07 11:24:04.658 [main] Framework645 - url opened
+[INFO ] 2022-11-07 11:24:20.955 [main] Framework645 - Clicked on Sign In button successfully.
+[INFO ] 2022-11-07 11:24:21.186 [main] Framework645 - Login Email entered successfully.
+[INFO ] 2022-11-07 11:24:21.402 [main] Framework645 - Login Password entered successfully.
+[INFO ] 2022-11-07 11:24:33.310 [main] Framework645 - Clicked on Login Button successfully.
+[INFO ] 2022-11-07 11:24:33.365 [main] Framework645 - VerifyLogin - Failed
+[INFO ] 2022-11-08 06:42:00.322 [main] Framework645 - url opened
+[INFO ] 2022-11-10 06:42:29.468 [main] Framework645 - url opened
+[INFO ] 2022-11-10 06:53:16.527 [main] Framework645 - url opened
+[INFO ] 2022-11-10 07:05:55.058 [main] Framework645 - url opened
+[INFO ] 2022-11-10 07:09:37.800 [main] Framework645 - url opened
+[INFO ] 2022-11-10 07:11:22.309 [main] Framework645 - url opened
+[INFO ] 2022-11-10 07:12:52.594 [main] Framework645 - url opened
+[INFO ] 2022-11-10 07:19:07.105 [main] Framework645 - url opened
+[INFO ] 2022-11-10 07:25:02.259 [main] Framework645 - url opened
+[INFO ] 2022-11-10 07:28:25.424 [main] Framework645 - url opened
+[INFO ] 2022-11-10 07:29:28.408 [main] Framework645 - url opened
+[INFO ] 2022-11-10 07:29:29.087 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-10 07:31:09.442 [main] Framework645 - url opened
+[INFO ] 2022-11-10 07:31:10.202 [main] Framework645 - VerifyLogin - Failed
+[INFO ] 2022-11-12 06:45:50.666 [main] Framework645 - url opened
+[INFO ] 2022-11-12 06:45:53.177 [main] Framework645 - VerifyLogin - Failed
+[INFO ] 2022-11-12 07:05:04.866 [main] Framework645 - url opened
+[INFO ] 2022-11-12 07:06:05.059 [main] Framework645 - url opened
+[INFO ] 2022-11-12 07:06:05.773 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-12 07:06:06.239 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-12 07:06:48.336 [main] Framework645 - url opened
+[INFO ] 2022-11-12 07:06:49.059 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-12 07:06:49.413 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-12 07:07:38.301 [main] Framework645 - url opened
+[INFO ] 2022-11-12 07:07:38.964 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-12 07:07:39.358 [main] Framework645 - VerifyLogin - Failed
+[INFO ] 2022-11-12 07:18:00.109 [main] Framework645 - url opened
+[INFO ] 2022-11-12 07:18:00.830 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-12 07:18:01.240 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-12 07:18:01.662 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-12 07:27:33.435 [main] Framework645 - url opened
+[INFO ] 2022-11-12 07:27:34.217 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-12 07:27:34.506 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-12 07:27:34.804 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-12 07:27:35.558 [main] Framework645 - VerifyLogin - Failed
+[INFO ] 2022-11-12 07:42:09.279 [main] Framework645 - url opened
+[INFO ] 2022-11-12 07:42:10.031 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-12 07:42:10.431 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-12 07:42:10.751 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-12 07:42:11.538 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-14 06:54:25.386 [main] Framework645 - url opened
+[INFO ] 2022-11-14 06:54:26.196 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-14 06:54:26.749 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-14 06:54:27.188 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-14 06:54:28.121 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-14 06:56:50.463 [main] Framework645 - url opened
+[INFO ] 2022-11-14 06:56:51.112 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-14 06:56:51.446 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-14 06:56:51.871 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-14 06:56:52.546 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-14 07:05:24.736 [main] Framework645 - url opened
+[INFO ] 2022-11-14 07:05:25.435 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-14 07:05:25.752 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-14 07:05:26.098 [main] Framework645 - VerifyLogin - Passed
+[INFO ] 2022-11-14 07:05:26.884 [main] Framework645 - VerifyLogin - Passed
